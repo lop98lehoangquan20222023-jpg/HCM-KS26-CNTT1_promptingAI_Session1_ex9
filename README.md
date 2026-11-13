@@ -11,4 +11,4 @@
 Theo quy định MartX, nhà cung cấp giao rau bị dập nát trên 10% thì bị phạt bao nhiêu?
 
 [KHÓA AN TOÀN (NEGATIVE CONSTRAINT)]
-TUYỆT ĐỐI KHÔNG tự suy đoán. Nếu thông tin không có trong văn bản trên, bắt buộc phải trả lời: "Không có dữ liệu trong tài liệu".
+Tuyệt đối không tự suy đoán. Nếu thông tin không có trong văn bản trên, bắt buộc phải trả lời: "Không có dữ liệu trong tài liệu".
